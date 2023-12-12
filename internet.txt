@@ -1,0 +1,4 @@
+Internet Feature is added.
+
+Default Browser: Internet Explorer.
+Additional Browser: Google Chrome.
